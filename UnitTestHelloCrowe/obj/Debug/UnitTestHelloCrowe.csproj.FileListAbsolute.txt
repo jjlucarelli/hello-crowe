@@ -1,0 +1,17 @@
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\obj\Debug\UnitTestHelloCrowe.csprojAssemblyReference.cache
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\obj\Debug\UnitTestHelloCrowe.csproj.CoreCompileInputs.cache
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\UnitTestHelloCrowe.dll
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\UnitTestHelloCrowe.pdb
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\HelloCrowe.exe
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\HelloCrowe.pdb
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\HelloCrowe.exe.config
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\obj\Debug\UnitTestHelloCrowe.csproj.CopyComplete
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\obj\Debug\UnitTestHelloCrowe.dll
+C:\Users\jlucarelli\source\repos\HelloCrowe\UnitTestHelloCrowe\obj\Debug\UnitTestHelloCrowe.pdb

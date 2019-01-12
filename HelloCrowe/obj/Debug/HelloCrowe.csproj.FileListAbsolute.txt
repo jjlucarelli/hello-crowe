@@ -1,0 +1,7 @@
+C:\Users\jlucarelli\source\repos\HelloCrowe\HelloCrowe\bin\Debug\HelloCrowe.exe.config
+C:\Users\jlucarelli\source\repos\HelloCrowe\HelloCrowe\bin\Debug\HelloCrowe.exe
+C:\Users\jlucarelli\source\repos\HelloCrowe\HelloCrowe\bin\Debug\HelloCrowe.pdb
+C:\Users\jlucarelli\source\repos\HelloCrowe\HelloCrowe\obj\Debug\HelloCrowe.csprojAssemblyReference.cache
+C:\Users\jlucarelli\source\repos\HelloCrowe\HelloCrowe\obj\Debug\HelloCrowe.csproj.CoreCompileInputs.cache
+C:\Users\jlucarelli\source\repos\HelloCrowe\HelloCrowe\obj\Debug\HelloCrowe.exe
+C:\Users\jlucarelli\source\repos\HelloCrowe\HelloCrowe\obj\Debug\HelloCrowe.pdb
